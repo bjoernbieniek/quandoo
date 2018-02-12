@@ -13,10 +13,10 @@ from default input file "aliens.csv". Planets with their inhabitants
 will be written to default output file "planets.csv"
 
        
-Options:
-  -h, --help            show this help message and exit
-  -i INPUT, --input=INPUT
-                        \Path to input .csv file.
-  -o OUTPUT, --output=OUTPUT
-                        \Path to output .csv file.
-  -t TOP, --top=TOP     Header for output file.
+Options:\n
+  -h, --help            show this help message and exit\n
+  -i INPUT, --input=INPUT\n
+                        \Path to input .csv file.\n
+  -o OUTPUT, --output=OUTPUT\n
+                        \Path to output .csv file.\n
+  -t TOP, --top=TOP     Header for output file.\n
